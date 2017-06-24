@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="64eadb3d-168b-4641-81f7-87ea1188896f" name="Suraj@SURAJ-LAPTOP 2017-06-24 13:54:51" runUser="SURAJ-LAPTOP\Suraj" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="985eff10-7603-4c22-be32-4b6b01ed7741">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Suraj_SURAJ-LAPTOP 2017-06-24 13_54_51" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2017-06-24T13:54:51.8263221+05:30" queuing="2017-06-24T13:54:52.1820282+05:30" start="2017-06-24T13:54:52.3211152+05:30" finish="2017-06-24T13:54:52.7286419+05:30" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod2" storage="buildandtest.tests.dll" id="f0b246ae-dd5f-12ca-a86b-394855f9e063">
+      <Execution id="d299bf3c-52af-4ada-abeb-380443458094" />
+      <TestMethod codeBase="E:/ThinkSimple/ContinousIntegration/AspWebApp/BuildAndTest/BuildAndTest.Tests/bin/Debug/BuildAndTest.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BuildAndTest.Tests.UnitTest1, BuildAndTest.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod2" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="buildandtest.tests.dll" id="6277be1f-aa3f-c176-ee98-59aa5e431af9">
+      <Execution id="3223d5a6-9ab0-44a9-af29-09c81e64199c" />
+      <TestMethod codeBase="E:/ThinkSimple/ContinousIntegration/AspWebApp/BuildAndTest/BuildAndTest.Tests/bin/Debug/BuildAndTest.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BuildAndTest.Tests.UnitTest1, BuildAndTest.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6277be1f-aa3f-c176-ee98-59aa5e431af9" executionId="3223d5a6-9ab0-44a9-af29-09c81e64199c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f0b246ae-dd5f-12ca-a86b-394855f9e063" executionId="d299bf3c-52af-4ada-abeb-380443458094" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3223d5a6-9ab0-44a9-af29-09c81e64199c" testId="6277be1f-aa3f-c176-ee98-59aa5e431af9" testName="TestMethod1" computerName="SURAJ-LAPTOP" duration="00:00:00.0579863" startTime="2017-06-24T13:54:52.3769742+05:30" endTime="2017-06-24T13:54:52.6812665+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3223d5a6-9ab0-44a9-af29-09c81e64199c">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;3&gt;. Actual:&lt;2&gt;. </Message>
+          <StackTrace>   at BuildAndTest.Tests.UnitTest1.TestMethod1() in c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest.Tests\UnitTest1.cs:line 15
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d299bf3c-52af-4ada-abeb-380443458094" testId="f0b246ae-dd5f-12ca-a86b-394855f9e063" testName="TestMethod2" computerName="SURAJ-LAPTOP" duration="00:00:00.0001536" startTime="2017-06-24T13:54:52.6817706+05:30" endTime="2017-06-24T13:54:52.6837752+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d299bf3c-52af-4ada-abeb-380443458094">
+    </UnitTestResult>
+  </Results>
+</TestRun>

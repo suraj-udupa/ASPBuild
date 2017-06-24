@@ -1,0 +1,123 @@
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\ApplicationInsights.config
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\roslyn\csc.exe
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\roslyn\System.Collections.Immutable.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\roslyn\vbc.exe
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\roslyn\VBCSCompiler.exe
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\roslyn\VBCSCompiler.exe.config
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\BuildAndTest.dll.config
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\BuildAndTest.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\BuildAndTest.pdb
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Antlr3.Runtime.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.AI.Web.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.AI.WindowsServer.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.ApplicationInsights.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Newtonsoft.Json.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Net.Http.Formatting.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Cors.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Helpers.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Http.Cors.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Http.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Http.WebHost.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Mvc.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Optimization.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Razor.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.WebPages.Deployment.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.WebPages.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.WebPages.Razor.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\WebGrease.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Antlr3.Runtime.pdb
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.AI.Web.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.AI.WindowsServer.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.ApplicationInsights.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Helpers.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Http.Cors.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Mvc.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Optimization.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Razor.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.WebPages.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.WebPages.Deployment.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.WebPages.Razor.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\Newtonsoft.Json.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Net.Http.Formatting.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Http.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\bin\System.Web.Http.WebHost.xml
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\obj\Debug\BuildAndTest.dll
+c:\users\suraj udupa\documents\visual studio 2015\Projects\BuildAndTest\BuildAndTest\obj\Debug\BuildAndTest.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\ApplicationInsights.config
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\roslyn\csc.exe
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\roslyn\System.Collections.Immutable.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\roslyn\vbc.exe
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\roslyn\VBCSCompiler.exe
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\roslyn\VBCSCompiler.exe.config
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\BuildAndTest.dll.config
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\BuildAndTest.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\BuildAndTest.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Antlr3.Runtime.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.AI.DependencyCollector.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.AI.Web.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.AI.WindowsServer.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.ApplicationInsights.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.Web.Infrastructure.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Newtonsoft.Json.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Net.Http.Formatting.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Cors.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Helpers.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Http.Cors.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Http.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Http.WebHost.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Mvc.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Optimization.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Razor.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.WebPages.Deployment.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.WebPages.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.WebPages.Razor.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\WebGrease.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Antlr3.Runtime.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.AI.DependencyCollector.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.AI.Web.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.AI.WindowsServer.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.ApplicationInsights.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Helpers.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Http.Cors.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Mvc.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Optimization.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Razor.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.WebPages.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.WebPages.Deployment.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.WebPages.Razor.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\Newtonsoft.Json.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Net.Http.Formatting.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Http.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\bin\System.Web.Http.WebHost.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\obj\Debug\BuildAndTest.csprojResolveAssemblyReference.cache
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\obj\Debug\BuildAndTest.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\BuildAndTest\BuildAndTest\obj\Debug\BuildAndTest.pdb
